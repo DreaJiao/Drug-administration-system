@@ -1,2 +1,2 @@
 # MyRepository
-我的项目经历
+![](https://github.com/lianghanqiang003/Drug-administration-system/blob/master/image/yiyao1.png)
